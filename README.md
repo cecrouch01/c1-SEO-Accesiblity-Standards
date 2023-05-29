@@ -14,6 +14,10 @@ N/A
 
 To access the Semantic HTML Elements and alt attributes, right-click on the Horiseon webpage and click on inspect. From there you can see what has been added and how the code has been organized. 
 
+To access this website follow the link below
+
+https://cecrouch01.github.io/c1-SEO-Accesiblity-Standards/
+
 
 ## Credits
 
